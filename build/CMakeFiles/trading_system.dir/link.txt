@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/trading_system.dir/main.cpp.o -o trading_system  /usr/lib/x86_64-linux-gnu/libcurl.so -ljsoncpp /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0 

@@ -1,0 +1,3 @@
+/home/rahul/Desktop/trading_project/build/CMakeFiles/trading_system.dir
+/home/rahul/Desktop/trading_project/build/CMakeFiles/edit_cache.dir
+/home/rahul/Desktop/trading_project/build/CMakeFiles/rebuild_cache.dir
